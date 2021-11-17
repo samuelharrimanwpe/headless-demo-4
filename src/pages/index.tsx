@@ -32,31 +32,20 @@ export default function Page() {
 
       <main className="content">
         <Hero
-          title="Get Started with Headless"
-          buttonText="Developer Docs"
+          title="Harry Potter"
+          buttonText="Purchase books"
           buttonURL="https://faustjs.org"
-          button2Text="Headless on GitHub"
+          button2Text="Stream Movies"
           button2URL="https://github.com/wpengine/faustjs"
-          bgImage="/images/headless_hero_background.jpg"
+          bgImage="/images/harry-potter.jpeg"
           id={styles.home_hero}>
           <p>
-            WP&nbsp;Engine’s Headless WordPress Framework includes this example
-            project, the{' '}
-            <a href="https://github.com/wpengine/faustjs#wordpress-plugin">
-              headless WordPress plugin
-            </a>
-            ,{' '}
-            <a href="https://github.com/wpengine/faustjs">headless packages</a>,
-            and{' '}
-            <a href="https://faustjs.org/docs/tutorial/dev-env-setup">
-              tutorials
-            </a>{' '}
-            to make building headless WordPress sites fast and fun.
+          Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry.
           </p>
         </Hero>
         <section className={styles.explore}>
           <div className="wrap">
-            <h2>Explore this Example Project</h2>
+            <h2>Acromantulas aren't scary, they just have too many legs.</h2>
             <p>
               This headless example project uses{' '}
               <a href="https://nextjs.org/">Next.js</a>,{' '}

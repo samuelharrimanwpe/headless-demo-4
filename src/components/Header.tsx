@@ -42,7 +42,7 @@ function Header({
                 <a
                   className="button"
                   href="https://github.com/wpengine/faustjs">
-                  GitHub
+                  Muggles Only
                 </a>
               </Link>
             </li>
