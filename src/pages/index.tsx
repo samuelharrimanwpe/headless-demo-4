@@ -45,7 +45,7 @@ export default function Page() {
         </Hero>
         <section className={styles.explore}>
           <div className="wrap">
-            <h2>Acromantulas aren&apos;'t scary, they just have too many legs.</h2>
+            <h2>Acromantulas aren&apos;t scary, they just have too many legs.</h2>
             <p>
               This headless example project uses{' '}
               <a href="https://nextjs.org/">Next.js</a>,{' '}
